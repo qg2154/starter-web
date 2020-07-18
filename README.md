@@ -9,7 +9,9 @@ This repository is for showing how Git and GitHub work
 
 ## Deployment
 
-
+ 
+ 
+please fork and create pull request 
 Sample website with plenty of files for demos
 
 make changes 
