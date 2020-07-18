@@ -17,3 +17,5 @@ make changes
 add some examples
 add some more
 add even more
+
+add copyright
